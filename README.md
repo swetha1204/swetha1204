@@ -9,7 +9,7 @@ I am an undergraduate student at Kallam HaranadhaReddy Institute of Technology, 
  - :zap: I am certified in Python, Java, Software Testing and IOT.
  - :zap: I have actively participated in all coding challenges and hackathons conducted in college.  
  - 📫 How to reach me: dadeswetha9347@gmail.com  
- - 📝 [My LinkedIn](https://linkedin.com/in/dade-swetha- 0634a9248)  
+ - 📝 [My LinkedIn](https://www.linkedin.com/in/dade-swetha-0634a9248/) 
  - 🌐 [My Website](https://swetha1204.github.io/Portfolio-site/)
 
 <h3 align="left">Languages and Tools:</h3>
