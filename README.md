@@ -5,7 +5,7 @@
 
 I am an undergraduate student at Kallam HaranadhaReddy Institute of Technology, majoring in Information Technology. My technology stack involves C, Python, Java, Javascript, HTML, CSS. My project avenues comprise of Machine Learning, Web Development, Python, Java.
 
- - :zap: I have done several internships in Cyber Security, Cyber Security, FED, Machine Learning and AI.  
+ - :zap: I have done several internships in Cyber Security, FED, Machine Learning and Artificial Intelligence.  
  - :zap: I am certified in Python, Java, Software Testing and IOT.
  - :zap: I have actively participated in all coding challenges and hackathons conducted in college.  
  - 📫 How to reach me: dadeswetha9347@gmail.com  
@@ -41,4 +41,10 @@ I am an undergraduate student at Kallam HaranadhaReddy Institute of Technology, 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
+</p>
+
+## GitHub Stats&#x1f4c8; 
+<p align = "center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?usernameswetha1204&show_icons=true&theme=tokyonight&line_height=27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha1204&theme=tokyonight">
 </p>
