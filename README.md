@@ -45,6 +45,6 @@ I am an undergraduate student at Kallam HaranadhaReddy Institute of Technology, 
 
 ## GitHub Stats&#x1f4c8; 
 <p align = "center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?usernameswetha1204&show_icons=true&theme=tokyonight&line_height=27">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=swetha1204&show_icons=true&theme=tokyonight&line_height=27">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetha1204&theme=tokyonight">
 </p>
